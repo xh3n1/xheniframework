@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-4": {
+            "XheniFramework\\Controller\\": "Controller/",
+            "XheniFramework\\Framework\\": "Framework"
+        }
+    }
+}
