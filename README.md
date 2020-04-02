@@ -1,6 +1,6 @@
 # xheniframework
 
-A simple PHP framework.
+A simple PHP framework from scratch.
 
 ## Install
 
